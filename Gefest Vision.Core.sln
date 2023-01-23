@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gefest Vision.Core", "Gefest Vision.Core\Gefest Vision.Core.csproj", "{2B53BE68-997F-4D62-8CF0-D05303F74A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gefest Vision.Contracts", "Gefest Vision.Contracts\Gefest Vision.Contracts.csproj", "{68DAE703-D04F-4BC8-8D7D-366AB961C77C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gefest Vision.Domain", "Gefest Vision.Domain\Gefest Vision.Domain.csproj", "{4CE229A7-A3FC-4053-8F4D-7434BBF45D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B53BE68-997F-4D62-8CF0-D05303F74A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B53BE68-997F-4D62-8CF0-D05303F74A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B53BE68-997F-4D62-8CF0-D05303F74A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B53BE68-997F-4D62-8CF0-D05303F74A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DAE703-D04F-4BC8-8D7D-366AB961C77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DAE703-D04F-4BC8-8D7D-366AB961C77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DAE703-D04F-4BC8-8D7D-366AB961C77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DAE703-D04F-4BC8-8D7D-366AB961C77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE229A7-A3FC-4053-8F4D-7434BBF45D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE229A7-A3FC-4053-8F4D-7434BBF45D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE229A7-A3FC-4053-8F4D-7434BBF45D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE229A7-A3FC-4053-8F4D-7434BBF45D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
